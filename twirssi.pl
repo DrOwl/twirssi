@@ -17,7 +17,7 @@ $Data::Dumper::Indent = 1;
 
 use vars qw($VERSION %IRSSI);
 
-$VERSION = sprintf '%s', q$Version: v2.6.4$ =~ /^\w+:\s+v(\S+)/;
+$VERSION = sprintf '%s', q$Version: v2.7.0$ =~ /^\w+:\s+v(\S+)/;
 %IRSSI   = (
     authors     => '@zigdon, @gedge',
     contact     => 'zigdon@gmail.com',
